@@ -17,3 +17,8 @@ This project is a simple yet functional calculator built using React. It offers 
 -   **JavaScript:** Handles the logic and operations of the calculator.
 
 Feel free to clone, modify, and explore the code. Contributions are always welcome!
+
+
+![Ekran görüntüsü 2024-09-15 201844](https://github.com/user-attachments/assets/4fb38849-fddf-4bb4-a800-4271443128f4)
+![Ekran görüntüsü 2024-09-15 201728](https://github.com/user-attachments/assets/6826ccae-daff-4eca-b984-f8547bf9bc3e)
+![Ekran görüntüsü 2024-09-15 201705](https://github.com/user-attachments/assets/5c53b7b2-06bb-4382-906f-1865f8771722)
